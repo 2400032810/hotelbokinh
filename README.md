@@ -1,2 +1,2 @@
 Hotel Booking Application
-Feature: Room booking
+Room price: 2000
