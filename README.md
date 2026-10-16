@@ -1,2 +1,2 @@
 Hotel Booking Application
-Room price: 3000
+Room price: 2500
